@@ -6,3 +6,7 @@
 - [Java](https://www.oracle.com/java/technologies/)
 - [Batch](https://en.wikibooks.org/wiki/Windows_Batch_Scripting)
 - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+
+## Specifications
+- Networking
+- Mini-Games
