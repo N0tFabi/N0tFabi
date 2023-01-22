@@ -1,5 +1,4 @@
 [![NotFabi](https://readme-typing-svg.herokuapp.com?size=60&color=ff0d59&vCenter=true&height=100&lines=NotFabi)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![NotFabi](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&color=7D00FF&center=true&width=435&height=100&lines=NotFabi)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <h1 align="center">Hi there 👋</h1>
 
