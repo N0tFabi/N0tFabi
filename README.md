@@ -1,4 +1,4 @@
-[![NotFabi](https://readme-typing-svg.herokuapp.com?size=60&color=ff0d59&vCenter=true&height=100&lines=NotFabi)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=a3Z7zEc7AXQ))
+[![NotFabi](https://readme-typing-svg.herokuapp.com?size=60&color=ff0d59&vCenter=true&height=100&lines=NotFabi)]([[[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=a3Z7zEc7AXQ)](https://www.youtube.com/watch?v=a3Z7zEc7AXQ)](https://www.youtube.com/watch?v=a3Z7zEc7AXQ))
 
 <h1 align="center">Hi there 👋</h1>
 
