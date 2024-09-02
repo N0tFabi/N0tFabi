@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on EVOX<br>🌱 I’m currently learning Pascal and Delphi<br>👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/N0tFabi?tab=repositories)<br>💬 Ask me about anything<br>⚡ Fun fact: I think I am funny<br>💡 Full-Stack developer
+🔭 I’m currently working on EVOX<br>🌱 I’m currently learning Pascal and Delphi<br>👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/N0tFabi?tab=repositories)<br>💬 Ask me about anything<br>⚡ Fun fact: I think I am funny<br>💡 Full-Stack developer from the austrian alps
 
 # 💻 Tech Stack:
 
