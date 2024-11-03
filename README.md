@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on EVOX<br>🌱 I’m currently learning Pascal and Delphi<br>👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/N0tFabi?tab=repositories)<br>💬 Ask me about anything<br>⚡ Fun fact: I think I am funny<br>💡 Full-Stack developer from the austrian alps
+🔭 I’m currently working on <strong>EVOX</strong> (It's a bookkeeping software), a <strong>bordcomputer</strong> for cars that don't have one<br>🌱 I’m currently learning Pascal and Delphi<br>👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/N0tFabi?tab=repositories)<br>💬 Ask me about anything<br>⚡ Fun fact: I made an AI<br>💡 Full-Stack developer from the austrian alps
 
 # 💻 Tech Stack:
 
